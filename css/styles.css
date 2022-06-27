@@ -203,8 +203,6 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 161px;
-  height: 16px;
 
   color: var(--basic-txt-subtitle);
 }
@@ -533,6 +531,8 @@ img {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
+
+  color: var(--basic-txt-subtitle);
 }
 
 /* Оформлення іконок */
